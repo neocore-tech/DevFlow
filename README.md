@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=DevFlow%20Flowcharts&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Tugas%20Algoritma%20%26%20Pemrograman%20Dasar&descAlignY=61&descAlign=62" width="100%" />
-  
   <br>
   
   <img src="logo.png" alt="DevFlow Logo" width="120" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 15px 0;">
