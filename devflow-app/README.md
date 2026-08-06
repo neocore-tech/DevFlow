@@ -1,4 +1,7 @@
-# DevFlow - Sistem Manajemen Alur Kerja (Workflow Management System)
+<div align="center">
+  <img src="public/logo.png" alt="DevFlow Logo" width="150" style="border-radius: 15px; margin-bottom: 20px;">
+  <h1>DevFlow - Sistem Manajemen Alur Kerja (Workflow Management System)</h1>
+</div>
 
 DevFlow adalah sistem manajemen proyek dan alur kerja komprehensif yang dirancang untuk mengelola siklus hidup pengembangan perangkat lunak (SDLC). Proyek ini dibangun menggunakan **Laravel 11** dan memanfaatkan desain arsitektur modern.
 
