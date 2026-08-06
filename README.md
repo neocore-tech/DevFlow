@@ -1,23 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=DevFlow%20Flowcharts&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Tugas%20Algoritma%20%26%20Pemrograman%20Dasar&descAlignY=61&descAlign=62" width="100%" />
-  
-  <br>
-  
-  <img src="logo.png" alt="DevFlow Logo" width="120" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 15px 0;">
-
-  <br>
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=System+Workflow+Modeling;SDLC+%26+Project+Management;Created+by+Ilham+Permana)](https://git.io/typing-svg)
-</div>
-
-<div align="center">
-
-  ![Academic](https://img.shields.io/badge/Tugas-Kuliah-blue?style=for-the-badge&logo=bookstack&logoColor=white)
-  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-  ![Mermaid.js](https://img.shields.io/badge/Mermaid.js-FF3670?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-</div>
 
 <br>
 
@@ -45,6 +26,14 @@
 
 <br>
 
+<div align="center">
+  <a href="https://neocore-tech.github.io/DevFlow/">
+    <img src="https://img.shields.io/badge/🌐_Lihat_Versi_Web_Interaktif-Klik_Di_Sini-4F46E5?style=for-the-badge" alt="Lihat Versi Web">
+  </a>
+</div>
+
+<br>
+
 ---
 
 ## 📌 1. Pendahuluan
@@ -52,6 +41,7 @@
 Dokumen ini disusun sebagai wujud pemenuhan tugas akademik untuk mata kuliah **Algoritma**. Tujuan utamanya adalah untuk memodelkan rancangan sistem informasi perangkat lunak secara logis, terstruktur, dan efisien. Laporan komprehensif ini memuat **16 arsitektur flowchart terstandarisasi** beserta penjelasan analitisnya untuk sebuah purwarupa sistem manajemen siklus hidup pengembangan perangkat lunak bernama **DevFlow**.
 
 ## 2. Legenda Simbol Flowchart
+
 - **Terminator** `([ ])` : Titik Awal (Start) / Akhir (End)
 - **Process** `[ ]` : Proses oleh sistem
 - **Input/Output** `[/ /]` : Masukan atau keluaran sistem
@@ -76,6 +66,7 @@ Dokumen ini disusun sebagai wujud pemenuhan tugas akademik untuk mata kuliah **A
 **Aktor:** Client, Project Manager, Team Leader, Senior Developer, Developer, QA Engineer, DevOps Engineer, Mahasiswa Magang, System
 
 ### Penjelasan Detail Proses:
+
 - **Start:** Proses SDLC dimulai ketika ada gagasan proyek baru.
 - **Client Request:** Klien mengajukan permohonan pengembangan perangkat lunak.
 - **Input Requirement:** Mengumpulkan daftar kebutuhan dan spesifikasi sistem dari klien.
@@ -109,6 +100,7 @@ Dokumen ini disusun sebagai wujud pemenuhan tugas akademik untuk mata kuliah **A
 - **End:** Proses Master SDLC untuk proyek tersebut berakhir sepenuhnya.
 
 ### Diagram
+
 ```mermaid
 graph TD
 classDef start fill:#3498db,stroke:#2980b9,color:#fff;
@@ -188,6 +180,7 @@ CB1 ~~~ CB2
 **Aktor:** Semua User, System
 
 ### Penjelasan Detail Proses:
+
 - **Start:** Pengguna membuka halaman login aplikasi DevFlow.
 - **Input Username:** Pengguna memasukkan identitas atau email.
 - **Input Password:** Pengguna memasukkan kata sandi (password).
@@ -204,6 +197,7 @@ CB1 ~~~ CB2
 - **End:** Proses otentikasi (login/logout) selesai.
 
 ### Diagram
+
 ```mermaid
 graph TD
 classDef start fill:#3498db,stroke:#2980b9,color:#fff;
@@ -266,6 +260,7 @@ CB1 ~~~ CB2
 **Aktor:** Semua User
 
 ### Penjelasan Detail Proses:
+
 - **Start:** Pengguna berhasil melewati otentikasi login.
 - **Load Dashboard:** Sistem mulai merender halaman utama dashboard.
 - **Ambil Data User:** Menarik informasi profil pengguna yang sedang aktif.
@@ -280,6 +275,7 @@ CB1 ~~~ CB2
 - **End:** Proses penyajian dashboard selesai.
 
 ### Diagram
+
 ```mermaid
 graph TD
 classDef start fill:#3498db,stroke:#2980b9,color:#fff;
@@ -338,6 +334,7 @@ CB1 ~~~ CB2
 **Aktor:** Super Admin, Admin, HRD, System
 
 ### Penjelasan Detail Proses:
+
 - **Start:** Administrator mengakses modul User Management.
 - **Tambah User:** Menginput data karyawan, mahasiswa magang, atau klien baru.
 - **Edit User:** Mengubah informasi profil pengguna yang sudah ada sebelumnya.
@@ -351,6 +348,7 @@ CB1 ~~~ CB2
 - **End:** Siklus manajemen pengguna selesai dieksekusi.
 
 ### Diagram
+
 ```mermaid
 graph TD
 classDef start fill:#3498db,stroke:#2980b9,color:#fff;
@@ -408,6 +406,7 @@ CB1 ~~~ CB2
 **Aktor:** Admin, Project Manager, System
 
 ### Penjelasan Detail Proses:
+
 - **Start:** Admin atau PM mulai mendaftarkan proyek baru.
 - **Create Project:** Membuka entitas proyek baru dalam aplikasi DevFlow.
 - **Input Client:** Memasukkan/memilih informasi klien atau perusahaan pemesan perangkat lunak.
@@ -423,6 +422,7 @@ CB1 ~~~ CB2
 - **End:** Penanganan proyek selesai.
 
 ### Diagram
+
 ```mermaid
 graph TD
 classDef start fill:#3498db,stroke:#2980b9,color:#fff;
@@ -482,6 +482,7 @@ CB1 ~~~ CB2
 **Aktor:** Project Manager, Team Leader, System
 
 ### Penjelasan Detail Proses:
+
 - **Start:** Siklus pengembangan Agile dimulai dengan persiapan sprint.
 - **Create Sprint:** Membuat data iterasi (sprint) bernomor urut.
 - **Sprint Goal:** Menetapkan satu tujuan fokus yang ingin diraih pada akhir sprint.
@@ -495,6 +496,7 @@ CB1 ~~~ CB2
 - **End:** Tahapan Sprint Planning selesai dilakukan.
 
 ### Diagram
+
 ```mermaid
 graph TD
 classDef start fill:#3498db,stroke:#2980b9,color:#fff;
@@ -552,6 +554,7 @@ CB1 ~~~ CB2
 **Aktor:** Team Leader, Developer, Mahasiswa Magang, System
 
 ### Penjelasan Detail Proses:
+
 - **Start:** TL perlu mendelegasikan fitur teknis menjadi pekerjaan diskrit.
 - **Create Task:** Membuat tiket tugas dengan judul dan deskripsi rinci.
 - **Assign Developer:** Menunjuk tiket kerjaan tersebut kepada programmer tetap.
@@ -566,6 +569,7 @@ CB1 ~~~ CB2
 - **End:** Siklus satu pekerjaan terkecil selesai.
 
 ### Diagram
+
 ```mermaid
 graph TD
 classDef start fill:#3498db,stroke:#2980b9,color:#fff;
@@ -624,6 +628,7 @@ CB1 ~~~ CB2
 **Aktor:** HRD, Mentor, Mahasiswa Magang, System
 
 ### Penjelasan Detail Proses:
+
 - **Start:** Periode penerimaan mahasiswa magang MBKM (Kampus Merdeka) dibuka.
 - **Registrasi:** Mahasiswa mendaftarkan diri secara daring ke sistem perusahaan.
 - **Pilih Kampus:** Calon peserta mengidentifikasi dari universitas mana mereka berasal.
@@ -641,6 +646,7 @@ CB1 ~~~ CB2
 - **End:** Program pemagangan per batch selesai.
 
 ### Diagram
+
 ```mermaid
 graph TD
 classDef start fill:#3498db,stroke:#2980b9,color:#fff;
@@ -703,6 +709,7 @@ CB1 ~~~ CB2
 **Aktor:** Developer, Senior Developer, System
 
 ### Penjelasan Detail Proses:
+
 - **Start:** Developer mendapat notifikasi untuk mengerjakan sebuah task spesifik.
 - **Checkout Branch:** Developer membuat percabangan source code khusus (feature branch) dari master branch.
 - **Coding:** Developer merangkai algoritma, integrasi logika, dan desain secara lokal.
@@ -717,6 +724,7 @@ CB1 ~~~ CB2
 - **End:** Tugas murni pengembang algoritma selesai, diserahkan ke QA.
 
 ### Diagram
+
 ```mermaid
 graph TD
 classDef start fill:#3498db,stroke:#2980b9,color:#fff;
@@ -776,6 +784,7 @@ CB1 ~~~ CB2
 **Aktor:** QA Engineer, System
 
 ### Penjelasan Detail Proses:
+
 - **Start:** QA Engineer menerima notifikasi bahwa fitur baru siap di-staging server.
 - **Unit Test:** Memastikan potongan script/fungsi-fungsi kecil beroperasi dengan benar.
 - **Functional Test:** Mencocokkan kemampuan aplikasi dengan spesifikasi Requirement Document.
@@ -787,6 +796,7 @@ CB1 ~~~ CB2
 - **End:** Tahap mitigasi risiko (kualitas) ditutup.
 
 ### Diagram
+
 ```mermaid
 graph TD
 classDef start fill:#3498db,stroke:#2980b9,color:#fff;
@@ -843,6 +853,7 @@ CB1 ~~~ CB2
 **Aktor:** QA Engineer, Developer, System
 
 ### Penjelasan Detail Proses:
+
 - **Start:** Sebuah kerusakan fungsi (Bug) terdeteksi dan perlu pelacakan (Issue Tracking).
 - **Input Bug:** QA/Pelapor memasukkan log kejadian, screenshot, dan langkah-langkah erornya.
 - **Severity:** Klasifikasi darurat, apakah eror ini menghentikan sistem (Blocker/High) atau sekadar kosmetik (Low).
@@ -855,6 +866,7 @@ CB1 ~~~ CB2
 - **End:** Prosedur isolasi masalah selesai.
 
 ### Diagram
+
 ```mermaid
 graph TD
 classDef start fill:#3498db,stroke:#2980b9,color:#fff;
@@ -912,6 +924,7 @@ CB1 ~~~ CB2
 **Aktor:** DevOps Engineer, System
 
 ### Penjelasan Detail Proses:
+
 - **Start:** Menjelang akhir sprint atau perilisan sistem versi baru.
 - **Build Production:** Merakit kode khusus mode live (optimasi skrip, menghilangkan console log/debug info).
 - **Backup Database:** Menyalin isi database klien secara total sebelum skema tabel diubah oleh pembaruan baru.
@@ -924,6 +937,7 @@ CB1 ~~~ CB2
 - **End:** Operasi migrasi ke ranah produksi selesai dilaksanakan.
 
 ### Diagram
+
 ```mermaid
 graph TD
 classDef start fill:#3498db,stroke:#2980b9,color:#fff;
@@ -981,6 +995,7 @@ CB1 ~~~ CB2
 **Aktor:** DevOps Engineer, System
 
 ### Penjelasan Detail Proses:
+
 - **Start:** Berjalannya waktu sesaat setelah perangkat lunak dipasarkan ke end-user.
 - **Monitoring:** Tim memantau stabilitas sistem sepanjang 24 jam sehari 7 hari seminggu (SLA).
 - **Analisis Error:** Membedah _error logs_ manakala terdapat pelaporan dari pelanggan jika ada transaksi macet.
@@ -992,6 +1007,7 @@ CB1 ~~~ CB2
 - **End:** Satu siklus perbaikan operasional teratasi.
 
 ### Diagram
+
 ```mermaid
 graph TD
 classDef start fill:#3498db,stroke:#2980b9,color:#fff;
@@ -1047,6 +1063,7 @@ CB1 ~~~ CB2
 **Aktor:** System
 
 ### Penjelasan Detail Proses:
+
 - **Start:** Saat terjadi perubahan event di seluruh fitur DevFlow.
 - **Generate Notification:** Mesin merangkai jenis notifikasi, isi teks, dan peruntukannya (Siapa yang harus menerimanya).
 - **Email:** Memasukkan notifikasi penting ke layanan email perusahaan.
@@ -1058,6 +1075,7 @@ CB1 ~~~ CB2
 - **End:** Pengiriman pemberitahuan berakhir.
 
 ### Diagram
+
 ```mermaid
 graph TD
 classDef start fill:#3498db,stroke:#2980b9,color:#fff;
@@ -1113,6 +1131,7 @@ CB1 ~~~ CB2
 **Aktor:** System, PM, HRD
 
 ### Penjelasan Detail Proses:
+
 - **Start:** Manajer proyek (PM) ingin menarik rekapan tagihan atau evaluasi bulanan.
 - **Ambil Data Project:** Melakukan query gabungan performa timeline & budget menyeluruh.
 - **Ambil Sprint:** Mengonfirmasi status penyelesaian sprint-sprint (Velocity / Burndown Chart).
@@ -1126,6 +1145,7 @@ CB1 ~~~ CB2
 - **End:** Tahap perolehan laporan evaluasi perusahaan selesai.
 
 ### Diagram
+
 ```mermaid
 graph TD
 classDef start fill:#3498db,stroke:#2980b9,color:#fff;
@@ -1183,6 +1203,7 @@ CB1 ~~~ CB2
 **Aktor:** Client, Project Manager, System
 
 ### Penjelasan Detail Proses:
+
 - **Start:** Puncak proyek di mana DevFlow mengkoordinir peresmian perangkat lunak.
 - **Client Review:** Klien mengoperasikan langsung sistem di komputer mereka untuk pertama kali.
 - **Feedback:** Klien memberikan tanggapan/surat permohonan atas _bug_ kecil yang tidak tersaring tim Dev.
@@ -1195,6 +1216,7 @@ CB1 ~~~ CB2
 - **End:** Proyek ditutup sempurna, beralih ke masa _maintenance_.
 
 ### Diagram
+
 ```mermaid
 graph TD
 classDef start fill:#3498db,stroke:#2980b9,color:#fff;
@@ -1244,6 +1266,6 @@ CB1 ~~~ CB2
 
 © 2026 **Ilham Permana**. Hak Cipta Dilindungi.
 
-Dokumen dan seluruh rancangan algoritma *flowchart* di dalam repositori ini dirancang dan ditulis sepenuhnya oleh **Ilham Permana** sebagai bagian dari tugas perkuliahan **ALGORITMA DAN PEMROGRAMAN DASAR** yang diampu oleh **AI ELIS YULIATI, S.Kom.,M.Pd**. 
+Dokumen dan seluruh rancangan algoritma *flowchart* di dalam repositori ini dirancang dan ditulis sepenuhnya oleh **Ilham Permana** sebagai bagian dari tugas perkuliahan **ALGORITMA DAN PEMROGRAMAN DASAR** yang diampu oleh **AI ELIS YULIATI, S.Kom.,M.Pd**.
 
 Proyek ini dilisensikan secara terbuka untuk keperluan edukasi dan referensi (*Academic/MIT License*). Penggunaan, penyalinan, atau modifikasi dari dokumen ini untuk keperluan penelitian atau belajar sangat diizinkan dengan menyertakan atribusi yang sesuai kepada penulis asli.
