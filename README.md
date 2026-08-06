@@ -1,8 +1,16 @@
-# Dokumentasi Lengkap Flowchart DevFlow
+# Laporan Akademik: Pemodelan Flowchart Sistem DevFlow
 
-Dokumen ini berisi 16 flowchart terstandarisasi beserta penjelasannya untuk sistem **DevFlow**.
+**Disusun Oleh:** ILHAM PERMANA  
+**Mata Kuliah:** Algoritma dan Pemrograman  
+**Tujuan Dokumen:** Pemenuhan Tugas Algoritma  
 
-## Legenda Simbol
+---
+
+## 1. Pendahuluan
+
+Dokumen ini disusun sebagai wujud pemenuhan tugas akademik untuk mata kuliah **Algoritma**. Tujuan utamanya adalah untuk memodelkan rancangan sistem informasi perangkat lunak secara logis, terstruktur, dan efisien. Laporan komprehensif ini memuat **16 arsitektur flowchart terstandarisasi** beserta penjelasan analitisnya untuk sebuah purwarupa sistem manajemen siklus hidup pengembangan perangkat lunak bernama **DevFlow**.
+
+## 2. Legenda Simbol Flowchart
 - **Terminator** `([ ])` : Titik Awal (Start) / Akhir (End)
 - **Process** `[ ]` : Proses oleh sistem
 - **Input/Output** `[/ /]` : Masukan atau keluaran sistem
@@ -1111,3 +1119,10 @@ CB1 ~~~ CB2
 
 ---
 
+## Hak Cipta dan Lisensi Akademik (Academic License)
+
+© 2026 **Ilham Permana**. Hak Cipta Dilindungi.
+
+Dokumen dan seluruh rancangan algoritma *flowchart* di dalam repositori ini dirancang dan ditulis sepenuhnya oleh **Ilham Permana** sebagai bagian dari tugas perkuliahan **Algoritma**. 
+
+Proyek ini dilisensikan secara terbuka untuk keperluan edukasi dan referensi (*Academic/MIT License*). Penggunaan, penyalinan, atau modifikasi dari dokumen ini untuk keperluan penelitian atau belajar sangat diizinkan dengan menyertakan atribusi yang sesuai kepada penulis asli.
