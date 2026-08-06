@@ -1,13 +1,49 @@
-# Laporan Akademik: Pemodelan Flowchart Sistem DevFlow
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=DevFlow%20Flowcharts&fontSize=70&animation=fadeIn&fontAlignY=38&desc=Tugas%20Algoritma%20%26%20Pemrograman%20Dasar&descAlignY=61&descAlign=62" width="100%" />
+  
+  <br>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=System+Workflow+Modeling;SDLC+%26+Project+Management;Created+by+Ilham+Permana)](https://git.io/typing-svg)
+</div>
 
-**Disusun Oleh:** ILHAM PERMANA  
-**Mata Kuliah:** ALGORITMA DAN PEMROGRAMAN DASAR  
-**Dosen Pengampu:** AI ELIS YULIATI, S.Kom.,M.Pd  
-**Tujuan Dokumen:** Pemenuhan Tugas Algoritma  
+<div align="center">
+
+  ![Academic](https://img.shields.io/badge/Tugas-Kuliah-blue?style=for-the-badge&logo=bookstack&logoColor=white)
+  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+  ![Mermaid.js](https://img.shields.io/badge/Mermaid.js-FF3670?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🎓 <b>PROFIL AKADEMIK</b> 🎓</h3>
+  <table align="center" style="box-shadow: 0 4px 8px rgba(0,0,0,0.1); border-radius: 8px;">
+    <tr>
+      <td align="right"><b>Penulis / Mahasiswa</b></td>
+      <td>🧑‍💻 <b>ILHAM PERMANA</b></td>
+    </tr>
+    <tr>
+      <td align="right"><b>Mata Kuliah</b></td>
+      <td>📚 ALGORITMA DAN PEMROGRAMAN DASAR</td>
+    </tr>
+    <tr>
+      <td align="right"><b>Dosen Pengampu</b></td>
+      <td>👩‍🏫 AI ELIS YULIATI, S.Kom.,M.Pd</td>
+    </tr>
+    <tr>
+      <td align="right"><b>Tujuan Dokumen</b></td>
+      <td>🎯 Pemenuhan Tugas Evaluasi Pembelajaran</td>
+    </tr>
+  </table>
+</div>
+
+<br>
 
 ---
 
-## 1. Pendahuluan
+## 📌 1. Pendahuluan
 
 Dokumen ini disusun sebagai wujud pemenuhan tugas akademik untuk mata kuliah **Algoritma**. Tujuan utamanya adalah untuk memodelkan rancangan sistem informasi perangkat lunak secara logis, terstruktur, dan efisien. Laporan komprehensif ini memuat **16 arsitektur flowchart terstandarisasi** beserta penjelasan analitisnya untuk sebuah purwarupa sistem manajemen siklus hidup pengembangan perangkat lunak bernama **DevFlow**.
 
