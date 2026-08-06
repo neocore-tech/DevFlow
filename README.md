@@ -60,7 +60,10 @@ Dokumen ini disusun sebagai wujud pemenuhan tugas akademik untuk mata kuliah **A
 
 ---
 
-## FC-01 - Master Workflow SDLC
+<details>
+<summary><h3>✨ FC-01 - Master Workflow SDLC <i>(Klik untuk ekspansi)</i></h3></summary>
+
+<br>
 
 **Deskripsi:** Menggambarkan alur utama proyek dari awal hingga selesai.
 
@@ -165,9 +168,14 @@ CA1 ~~~ CA2
 CB1 ~~~ CB2
 ```
 
+</details>
+
 ---
 
-## FC-02 - Login & Authentication
+<details>
+<summary><h3>✨ FC-02 - Login & Authentication <i>(Klik untuk ekspansi)</i></h3></summary>
+
+<br>
 
 **Deskripsi:** Proses otentikasi user untuk mengakses sistem DevFlow.
 
@@ -238,9 +246,14 @@ CA1 ~~~ CA2
 CB1 ~~~ CB2
 ```
 
+</details>
+
 ---
 
-## FC-03 - Dashboard
+<details>
+<summary><h3>✨ FC-03 - Dashboard <i>(Klik untuk ekspansi)</i></h3></summary>
+
+<br>
 
 **Deskripsi:** Tampilan utama sistem setelah user berhasil login.
 
@@ -305,9 +318,14 @@ CA1 ~~~ CA2
 CB1 ~~~ CB2
 ```
 
+</details>
+
 ---
 
-## FC-04 - User Management
+<details>
+<summary><h3>✨ FC-04 - User Management <i>(Klik untuk ekspansi)</i></h3></summary>
+
+<br>
 
 **Deskripsi:** Modul untuk mengelola data pengguna sistem.
 
@@ -370,9 +388,14 @@ CA1 ~~~ CA2
 CB1 ~~~ CB2
 ```
 
+</details>
+
 ---
 
-## FC-05 - Project Management
+<details>
+<summary><h3>✨ FC-05 - Project Management <i>(Klik untuk ekspansi)</i></h3></summary>
+
+<br>
 
 **Deskripsi:** Proses pembuatan dan pengelolaan project.
 
@@ -439,9 +462,14 @@ CA1 ~~~ CA2
 CB1 ~~~ CB2
 ```
 
+</details>
+
 ---
 
-## FC-06 - Sprint Planning
+<details>
+<summary><h3>✨ FC-06 - Sprint Planning <i>(Klik untuk ekspansi)</i></h3></summary>
+
+<br>
 
 **Deskripsi:** Perencanaan dan penjadwalan sprint.
 
@@ -504,9 +532,14 @@ CA1 ~~~ CA2
 CB1 ~~~ CB2
 ```
 
+</details>
+
 ---
 
-## FC-07 - Task Management
+<details>
+<summary><h3>✨ FC-07 - Task Management <i>(Klik untuk ekspansi)</i></h3></summary>
+
+<br>
 
 **Deskripsi:** Pengelolaan task development.
 
@@ -571,9 +604,14 @@ CA1 ~~~ CA2
 CB1 ~~~ CB2
 ```
 
+</details>
+
 ---
 
-## FC-08 - Internship Management
+<details>
+<summary><h3>✨ FC-08 - Internship Management <i>(Klik untuk ekspansi)</i></h3></summary>
+
+<br>
 
 **Deskripsi:** Proses pengelolaan mahasiswa magang.
 
@@ -645,9 +683,14 @@ CA1 ~~~ CA2
 CB1 ~~~ CB2
 ```
 
+</details>
+
 ---
 
-## FC-09 - Development Workflow
+<details>
+<summary><h3>✨ FC-09 - Development Workflow <i>(Klik untuk ekspansi)</i></h3></summary>
+
+<br>
 
 **Deskripsi:** Alur proses koding hingga disetujui (merge).
 
@@ -713,9 +756,14 @@ CA1 ~~~ CA2
 CB1 ~~~ CB2
 ```
 
+</details>
+
 ---
 
-## FC-10 - QA Testing
+<details>
+<summary><h3>✨ FC-10 - QA Testing <i>(Klik untuk ekspansi)</i></h3></summary>
+
+<br>
 
 **Deskripsi:** Pengujian fungsionalitas dan performa aplikasi.
 
@@ -775,9 +823,14 @@ CA1 ~~~ CA2
 CB1 ~~~ CB2
 ```
 
+</details>
+
 ---
 
-## FC-11 - Bug & Issue Management
+<details>
+<summary><h3>✨ FC-11 - Bug & Issue Management <i>(Klik untuk ekspansi)</i></h3></summary>
+
+<br>
 
 **Deskripsi:** Manajemen perbaikan error yang ditemukan.
 
@@ -839,9 +892,14 @@ CA1 ~~~ CA2
 CB1 ~~~ CB2
 ```
 
+</details>
+
 ---
 
-## FC-12 - Deployment
+<details>
+<summary><h3>✨ FC-12 - Deployment <i>(Klik untuk ekspansi)</i></h3></summary>
+
+<br>
 
 **Deskripsi:** Rilis aplikasi ke environment Production.
 
@@ -903,9 +961,14 @@ CA1 ~~~ CA2
 CB1 ~~~ CB2
 ```
 
+</details>
+
 ---
 
-## FC-13 - Maintenance
+<details>
+<summary><h3>✨ FC-13 - Maintenance <i>(Klik untuk ekspansi)</i></h3></summary>
+
+<br>
 
 **Deskripsi:** Pemeliharaan aplikasi pasca rilis.
 
@@ -964,9 +1027,14 @@ CA1 ~~~ CA2
 CB1 ~~~ CB2
 ```
 
+</details>
+
 ---
 
-## FC-14 - Notification Center
+<details>
+<summary><h3>✨ FC-14 - Notification Center <i>(Klik untuk ekspansi)</i></h3></summary>
+
+<br>
 
 **Deskripsi:** Manajemen notifikasi ke pengguna.
 
@@ -1025,9 +1093,14 @@ CA1 ~~~ CA2
 CB1 ~~~ CB2
 ```
 
+</details>
+
 ---
 
-## FC-15 - Reporting
+<details>
+<summary><h3>✨ FC-15 - Reporting <i>(Klik untuk ekspansi)</i></h3></summary>
+
+<br>
 
 **Deskripsi:** Generasi laporan aktivitas dan performa.
 
@@ -1090,9 +1163,14 @@ CA1 ~~~ CA2
 CB1 ~~~ CB2
 ```
 
+</details>
+
 ---
 
-## FC-16 - Client Approval
+<details>
+<summary><h3>✨ FC-16 - Client Approval <i>(Klik untuk ekspansi)</i></h3></summary>
+
+<br>
 
 **Deskripsi:** Proses UAT dan persetujuan dari klien.
 
@@ -1153,6 +1231,8 @@ end
 CA1 ~~~ CA2
 CB1 ~~~ CB2
 ```
+
+</details>
 
 ---
 
