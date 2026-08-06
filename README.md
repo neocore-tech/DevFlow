@@ -1,7 +1,8 @@
 # Laporan Akademik: Pemodelan Flowchart Sistem DevFlow
 
 **Disusun Oleh:** ILHAM PERMANA  
-**Mata Kuliah:** Algoritma dan Pemrograman  
+**Mata Kuliah:** ALGORITMA DAN PEMROGRAMAN DASAR  
+**Dosen Pengampu:** AI ELIS YULIATI, S.Kom.,M.Pd  
 **Tujuan Dokumen:** Pemenuhan Tugas Algoritma  
 
 ---
@@ -1123,6 +1124,6 @@ CB1 ~~~ CB2
 
 © 2026 **Ilham Permana**. Hak Cipta Dilindungi.
 
-Dokumen dan seluruh rancangan algoritma *flowchart* di dalam repositori ini dirancang dan ditulis sepenuhnya oleh **Ilham Permana** sebagai bagian dari tugas perkuliahan **Algoritma**. 
+Dokumen dan seluruh rancangan algoritma *flowchart* di dalam repositori ini dirancang dan ditulis sepenuhnya oleh **Ilham Permana** sebagai bagian dari tugas perkuliahan **ALGORITMA DAN PEMROGRAMAN DASAR** yang diampu oleh **AI ELIS YULIATI, S.Kom.,M.Pd**. 
 
 Proyek ini dilisensikan secara terbuka untuk keperluan edukasi dan referensi (*Academic/MIT License*). Penggunaan, penyalinan, atau modifikasi dari dokumen ini untuk keperluan penelitian atau belajar sangat diizinkan dengan menyertakan atribusi yang sesuai kepada penulis asli.
