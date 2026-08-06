@@ -58,14 +58,8 @@
         .logo-icon {
             width: 32px;
             height: 32px;
-            background: linear-gradient(135deg, #4F46E5, #EC4899);
             border-radius: 8px;
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            color: white;
-            font-weight: bold;
-            font-size: 1.2rem;
+            object-fit: contain;
         }
 
         .sidebar-header h2 {
@@ -356,7 +350,7 @@
     <!-- Sidebar -->
     <aside class="sidebar">
         <div class="sidebar-header">
-            <div class="logo-icon">D</div>
+            <img src="/logo.png" alt="DevFlow Logo" class="logo-icon">
             <h2>DevFlow</h2>
         </div>
         <nav class="nav-menu">

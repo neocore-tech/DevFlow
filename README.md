@@ -3,6 +3,10 @@
   
   <br>
   
+  <img src="logo.png" alt="DevFlow Logo" width="120" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.2); margin: 15px 0;">
+
+  <br>
+  
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=System+Workflow+Modeling;SDLC+%26+Project+Management;Created+by+Ilham+Permana)](https://git.io/typing-svg)
 </div>
 
